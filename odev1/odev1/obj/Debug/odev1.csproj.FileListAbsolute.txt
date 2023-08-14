@@ -1,0 +1,40 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev1\odev1\bin\Debug\odev1.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev1\odev1\bin\Debug\odev1.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev1\odev1\bin\Debug\odev1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev1\odev1\obj\Debug\odev1.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev1\odev1\obj\Debug\odev1.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev1\odev1\obj\Debug\odev1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev1\odev1\obj\Debug\odev1.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev1\odev1\obj\Debug\odev1.pdb
+C:\Users\ASUS\Desktop\GitHub\odev1\odev1\bin\Debug\odev1.exe.config
+C:\Users\ASUS\Desktop\GitHub\odev1\odev1\obj\Debug\odev1.exe
+C:\Users\ASUS\Desktop\GitHub\odev1\odev1\obj\Debug\odev1.pdb
+C:\Users\ASUS\Desktop\GitHub\odev1\odev1\obj\Debug\odev1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\GitHub\odev1\odev1\obj\Debug\odev1.Form1.resources
+C:\Users\ASUS\Desktop\GitHub\odev1\odev1\obj\Debug\odev1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\GitHub\odev1\odev1\obj\Debug\odev1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\GitHub\odev1\odev1\bin\Debug\odev1.exe
+C:\Users\ASUS\Desktop\GitHub\odev1\odev1\bin\Debug\odev1.pdb
+C:\Users\ASUS\Desktop\GitHub\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\bin\Debug\odev1.exe.config
+C:\Users\ASUS\Desktop\GitHub\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.exe
+C:\Users\ASUS\Desktop\GitHub\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.pdb
+C:\Users\ASUS\Desktop\GitHub\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\bin\Debug\odev1.exe
+C:\Users\ASUS\Desktop\GitHub\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\bin\Debug\odev1.pdb
+C:\Users\ASUS\Desktop\GitHub\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\GitHub\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.Form1.resources
+C:\Users\ASUS\Desktop\GitHub\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\GitHub\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\bin\Debug\odev1.exe.config
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\bin\Debug\odev1.exe
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\bin\Debug\odev1.pdb
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.Form1.resources
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.Properties.Resources.resources
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.csproj.GenerateResource.cache
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.exe
+C:\Users\ASUS\Saved Games\Downloads\1. SORU C# PROJESİ VE SQL QUERY DOSYASI(SQL YOK)\1. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev1\odev1\obj\Debug\odev1.pdb
+C:\Users\ASUS\Desktop\odev1\odev1\odev1\bin\Debug\odev1.exe.config
+C:\Users\ASUS\Desktop\odev1\odev1\odev1\obj\Debug\odev1.exe
+C:\Users\ASUS\Desktop\odev1\odev1\odev1\obj\Debug\odev1.pdb
