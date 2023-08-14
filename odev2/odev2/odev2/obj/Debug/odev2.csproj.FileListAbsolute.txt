@@ -1,0 +1,21 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev2\odev2\bin\Debug\odev2.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev2\odev2\bin\Debug\odev2.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev2\odev2\obj\Debug\odev2.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev2\odev2\obj\Debug\odev2.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev2\odev2\obj\Debug\odev2.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev2\odev2\obj\Debug\odev2.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Dizi\odev2\odev2\obj\Debug\odev2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\GitHub\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\ASUS\Desktop\GitHub\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\ASUS\Desktop\GitHub\odev2\odev2\obj\Debug\odev2.pdb
+C:\Users\ASUS\Desktop\GitHub\2. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\ASUS\Desktop\GitHub\2. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\ASUS\Desktop\GitHub\2. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev2\odev2\obj\Debug\odev2.pdb
+C:\Users\ASUS\Desktop\GitHub\2. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev2\odev2\bin\Debug\odev2.exe
+C:\Users\ASUS\Desktop\GitHub\2. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev2\odev2\bin\Debug\odev2.pdb
+C:\Users\ASUS\Desktop\GitHub\2. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev2\odev2\obj\Debug\odev2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\GitHub\2. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev2\odev2\obj\Debug\odev2.Form1.resources
+C:\Users\ASUS\Desktop\GitHub\2. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev2\odev2\obj\Debug\odev2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\GitHub\2. SORU C# PROJESİ VE SQL QUERY DOSYASI\odev2\odev2\obj\Debug\odev2.csproj.GenerateResource.Cache
